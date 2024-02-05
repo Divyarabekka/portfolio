@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the React and Design page.",
+      "skills": ["React", "Node"],
+      "demo": "https://64d08e01da73a53b406af20c--grand-donut-b5ec20.netlify.app/"
+    
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project  create App using Contaxt API.",
+      "skills": ["React", "Node"],
+      "demo": "https://64e480848d7a0c05506f57ce--shiny-cheesecake-395965.netlify.app/"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project Design Web page using Router method.",
+      "skills": ["React", "Node"],
+      "demo": "https://64e07f17d46b3e2f2fea9517--luxury-eclair-be55d5.netlify.app/"
+      
+    }
+  ]
